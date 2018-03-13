@@ -1,0 +1,3257 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="河濱廁所" id="河濱廁所">
+	<SimpleField name="Administrative district" type="string"></SimpleField>
+	<SimpleField name="Park" type="string"></SimpleField>
+	<SimpleField name="Location" type="string"></SimpleField>
+	<SimpleField name="Type" type="string"></SimpleField>
+	<SimpleField name="Latitude" type="float"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+	<SimpleField name="field_7" type="string"></SimpleField>
+</Schema>
+<Folder><name>河濱廁所</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">雙溪右岸河濱公園</SimpleData>
+		<SimpleData name="Location">福林橋下</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.100833</SimpleData>
+		<SimpleData name="Longitude">121.52675</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.52675,25.100833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">雙溪左岸河濱公園</SimpleData>
+		<SimpleData name="Location">士林橋捷運橋上游約10公尺處</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.099139</SimpleData>
+		<SimpleData name="Longitude">121.524111</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.524111,25.099139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">雙溪右岸河濱公園</SimpleData>
+		<SimpleData name="Location">文昌橋下游籃球場旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.098806</SimpleData>
+		<SimpleData name="Longitude">121.521667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.521667,25.098806</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">百齡左岸河濱公園</SimpleData>
+		<SimpleData name="Location">承德橋下</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.077306</SimpleData>
+		<SimpleData name="Longitude">121.521056</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.521056,25.077306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">百齡左岸河濱公園</SimpleData>
+		<SimpleData name="Location">體健設施區</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.08175</SimpleData>
+		<SimpleData name="Longitude">121.513889</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.513889,25.08175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">百齡左岸河濱公園</SimpleData>
+		<SimpleData name="Location">溜冰場</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.085583</SimpleData>
+		<SimpleData name="Longitude">121.512722</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.512722,25.085583</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">百齡左岸河濱公園</SimpleData>
+		<SimpleData name="Location">溜冰場</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.085583</SimpleData>
+		<SimpleData name="Longitude">121.512722</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.512722,25.085583</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">百齡左岸河濱公園</SimpleData>
+		<SimpleData name="Location">百齡橋下</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.087972</SimpleData>
+		<SimpleData name="Longitude">121.512278</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.512278,25.087972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">百齡左岸河濱公園</SimpleData>
+		<SimpleData name="Location">百齡橋下</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.087972</SimpleData>
+		<SimpleData name="Longitude">121.512278</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.512278,25.087972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">百齡左岸河濱公園</SimpleData>
+		<SimpleData name="Location">百齡橋下</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.087972</SimpleData>
+		<SimpleData name="Longitude">121.512278</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.512278,25.087972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">百齡左岸河濱公園</SimpleData>
+		<SimpleData name="Location">百齡橋下游籃球場區</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.091417</SimpleData>
+		<SimpleData name="Longitude">121.511917</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.511917,25.091417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">百齡左岸河濱公園</SimpleData>
+		<SimpleData name="Location">百齡橋下游籃球場區</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.091417</SimpleData>
+		<SimpleData name="Longitude">121.511917</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.511917,25.091417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">百齡左岸河濱公園</SimpleData>
+		<SimpleData name="Location">社子棒球場</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.093333</SimpleData>
+		<SimpleData name="Longitude">121.507056</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.507056,25.093333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">百齡左岸河濱公園</SimpleData>
+		<SimpleData name="Location">社子棒球場</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.093333</SimpleData>
+		<SimpleData name="Longitude">121.507056</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.507056,25.093333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">百齡左岸河濱公園</SimpleData>
+		<SimpleData name="Location">社子棒球場</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.093333</SimpleData>
+		<SimpleData name="Longitude">121.507056</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.507056,25.093333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">百齡左岸河濱公園</SimpleData>
+		<SimpleData name="Location">社子棒球場</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.093333</SimpleData>
+		<SimpleData name="Longitude">121.507056</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.507056,25.093333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">百齡左岸河濱公園</SimpleData>
+		<SimpleData name="Location">星光廣場（三角公園）</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.09425</SimpleData>
+		<SimpleData name="Longitude">121.502889</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.502889,25.09425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">百齡左岸河濱公園</SimpleData>
+		<SimpleData name="Location">星光廣場（三角公園）</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.09425</SimpleData>
+		<SimpleData name="Longitude">121.502889</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.502889,25.09425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">百齡左岸河濱公園</SimpleData>
+		<SimpleData name="Location">社5抽水站</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.1155</SimpleData>
+		<SimpleData name="Longitude">121.496389</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.496389,25.1155</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">百齡右岸河濱公園</SimpleData>
+		<SimpleData name="Location">三腳渡龍舟廣場區</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.08075</SimpleData>
+		<SimpleData name="Longitude">121.517833</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.517833,25.08075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">百齡右岸河濱公園</SimpleData>
+		<SimpleData name="Location">三腳渡龍舟廣場區</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.08075</SimpleData>
+		<SimpleData name="Longitude">121.517833</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.517833,25.08075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">百齡右岸河濱公園</SimpleData>
+		<SimpleData name="Location">三腳渡龍舟廣場區</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.08075</SimpleData>
+		<SimpleData name="Longitude">121.517833</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.517833,25.08075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">百齡右岸河濱公園</SimpleData>
+		<SimpleData name="Location">體育局球場</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.082306</SimpleData>
+		<SimpleData name="Longitude">121.516639</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.516639,25.082306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">百齡右岸河濱公園</SimpleData>
+		<SimpleData name="Location">體育局球場</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.084</SimpleData>
+		<SimpleData name="Longitude">121.515972</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.515972,25.084</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">百齡右岸河濱公園</SimpleData>
+		<SimpleData name="Location">體育局球場</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.084</SimpleData>
+		<SimpleData name="Longitude">121.515972</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.515972,25.084</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">百齡右岸河濱公園</SimpleData>
+		<SimpleData name="Location">體育局球場</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.085944</SimpleData>
+		<SimpleData name="Longitude">121.515583</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.515583,25.085944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">百齡右岸河濱公園</SimpleData>
+		<SimpleData name="Location">體育局球場</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.085944</SimpleData>
+		<SimpleData name="Longitude">121.515583</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.515583,25.085944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">百齡右岸河濱公園</SimpleData>
+		<SimpleData name="Location">體育局球場</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.089333</SimpleData>
+		<SimpleData name="Longitude">121.515111</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.515111,25.089333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">百齡右岸河濱公園</SimpleData>
+		<SimpleData name="Location">體育局球場</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.087167</SimpleData>
+		<SimpleData name="Longitude">121.515417</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.515417,25.087167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">百齡右岸河濱公園</SimpleData>
+		<SimpleData name="Location">百齡橋下</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.091333</SimpleData>
+		<SimpleData name="Longitude">121.514639</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.514639,25.091333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">百齡右岸河濱公園</SimpleData>
+		<SimpleData name="Location">體育局球場</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.092903</SimpleData>
+		<SimpleData name="Longitude">121.513813</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.513813,25.092903</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">百齡右岸河濱公園</SimpleData>
+		<SimpleData name="Location">體育局球場</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.092903</SimpleData>
+		<SimpleData name="Longitude">121.513813</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.513813,25.092903</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">百齡右岸河濱公園</SimpleData>
+		<SimpleData name="Location">體育局球場</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.093972</SimpleData>
+		<SimpleData name="Longitude">121.513</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.513,25.093972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">百齡右岸河濱公園</SimpleData>
+		<SimpleData name="Location">體育局球場</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.094722</SimpleData>
+		<SimpleData name="Longitude">121.512306</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.512306,25.094722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">北投區</SimpleData>
+		<SimpleData name="Park">河雙21號</SimpleData>
+		<SimpleData name="Location">洲美里體健區</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.097861</SimpleData>
+		<SimpleData name="Longitude">121.511083</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.511083,25.097861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">北投區</SimpleData>
+		<SimpleData name="Park">河雙21號</SimpleData>
+		<SimpleData name="Location">自行車租借站</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.097417</SimpleData>
+		<SimpleData name="Longitude">121.509028</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.509028,25.097417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">北投區</SimpleData>
+		<SimpleData name="Park">河雙21號</SimpleData>
+		<SimpleData name="Location">自行車租借站</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.097417</SimpleData>
+		<SimpleData name="Longitude">121.509028</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.509028,25.097417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">北投區</SimpleData>
+		<SimpleData name="Park">河雙21號</SimpleData>
+		<SimpleData name="Location">自行車租借站</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.097417</SimpleData>
+		<SimpleData name="Longitude">121.509028</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.509028,25.097417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">北投區</SimpleData>
+		<SimpleData name="Park">洲美共構段</SimpleData>
+		<SimpleData name="Location">洲美大橋下</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.101444</SimpleData>
+		<SimpleData name="Longitude">121.498944</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.498944,25.101444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">北投區</SimpleData>
+		<SimpleData name="Park">洲美共構段</SimpleData>
+		<SimpleData name="Location">自行車越野場地</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.113889</SimpleData>
+		<SimpleData name="Longitude">121.499028</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.499028,25.113889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">北投區</SimpleData>
+		<SimpleData name="Park">洲美共構段</SimpleData>
+		<SimpleData name="Location">自行車越野場地</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.113889</SimpleData>
+		<SimpleData name="Longitude">121.499028</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.499028,25.113889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">北投區</SimpleData>
+		<SimpleData name="Park">洲美共構段</SimpleData>
+		<SimpleData name="Location">自行車越野場地</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.113889</SimpleData>
+		<SimpleData name="Longitude">121.499028</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.499028,25.113889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">北投區</SimpleData>
+		<SimpleData name="Park">關渡防潮堤</SimpleData>
+		<SimpleData name="Location">貴子坑溪口</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.115222</SimpleData>
+		<SimpleData name="Longitude">121.485389</SimpleData>
+		<SimpleData name="field_7">堤外</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.485389,25.115222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">大同區</SimpleData>
+		<SimpleData name="Park">延平河濱公園</SimpleData>
+		<SimpleData name="Location">廣澤宮</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.062222</SimpleData>
+		<SimpleData name="Longitude">121.508417</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.508417,25.062222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">大同區</SimpleData>
+		<SimpleData name="Park">延平河濱公園</SimpleData>
+		<SimpleData name="Location">淡6敦煌水門</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.076861</SimpleData>
+		<SimpleData name="Longitude">121.508222</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.508222,25.076861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">大同區</SimpleData>
+		<SimpleData name="Park">延平河濱公園</SimpleData>
+		<SimpleData name="Location">淡6敦煌水門</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.076861</SimpleData>
+		<SimpleData name="Longitude">121.508222</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.508222,25.076861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">延平河濱公園</SimpleData>
+		<SimpleData name="Location">重陽橋下</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.085806</SimpleData>
+		<SimpleData name="Longitude">121.505139</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.505139,25.085806</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">延平河濱公園</SimpleData>
+		<SimpleData name="Location">7段頭快樂休息站</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.092389</SimpleData>
+		<SimpleData name="Longitude">121.498111</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.498111,25.092389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">延平河濱公園</SimpleData>
+		<SimpleData name="Location">7段頭快樂休息站</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.092389</SimpleData>
+		<SimpleData name="Longitude">121.498111</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.498111,25.092389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">延平河濱公園</SimpleData>
+		<SimpleData name="Location">7段頭快樂休息站</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.092389</SimpleData>
+		<SimpleData name="Longitude">121.498111</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.498111,25.092389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">福安</SimpleData>
+		<SimpleData name="Location">福安公園</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.094833</SimpleData>
+		<SimpleData name="Longitude">121.495222</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.495222,25.094833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">福安</SimpleData>
+		<SimpleData name="Location">福安公園</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.094833</SimpleData>
+		<SimpleData name="Longitude">121.495222</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.495222,25.094833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">福安</SimpleData>
+		<SimpleData name="Location">福安碼頭</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.096</SimpleData>
+		<SimpleData name="Longitude">121.493861</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.493861,25.096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">福安</SimpleData>
+		<SimpleData name="Location">福安碼頭</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.096</SimpleData>
+		<SimpleData name="Longitude">121.493861</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.493861,25.096</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">福安</SimpleData>
+		<SimpleData name="Location">延平北路7段215號涼亭</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.100667</SimpleData>
+		<SimpleData name="Longitude">121.487639</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.487639,25.100667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">社子島淡水河側</SimpleData>
+		<SimpleData name="Location">臨7抽水站</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.10275</SimpleData>
+		<SimpleData name="Longitude">121.483472</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.483472,25.10275</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">富州</SimpleData>
+		<SimpleData name="Location">社6溼地</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.107528</SimpleData>
+		<SimpleData name="Longitude">121.469417</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.469417,25.107528</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">富州</SimpleData>
+		<SimpleData name="Location">富州公園</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.105083</SimpleData>
+		<SimpleData name="Longitude">121.476444</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.476444,25.105083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">富州</SimpleData>
+		<SimpleData name="Location">富州公園</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.105083</SimpleData>
+		<SimpleData name="Longitude">121.476444</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.476444,25.105083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">社子島基隆河側</SimpleData>
+		<SimpleData name="Location">社子大橋下</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.110889</SimpleData>
+		<SimpleData name="Longitude">121.494889</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.494889,25.110889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">社子島基隆河側</SimpleData>
+		<SimpleData name="Location">社子溼地（頭）</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.1115</SimpleData>
+		<SimpleData name="Longitude">121.493389</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.493389,25.1115</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">社子島基隆河側</SimpleData>
+		<SimpleData name="Location">社子溼地（尾）</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.113278</SimpleData>
+		<SimpleData name="Longitude">121.489389</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.489389,25.113278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">社子島基隆河側</SimpleData>
+		<SimpleData name="Location">東山宮</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.109667</SimpleData>
+		<SimpleData name="Longitude">121.474333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.474333,25.109667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">社子島基隆河側</SimpleData>
+		<SimpleData name="Location">抽水站管制中心</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.108806</SimpleData>
+		<SimpleData name="Longitude">121.495694</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.495694,25.108806</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">社子島基隆河側</SimpleData>
+		<SimpleData name="Location">抽水站管制中心</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.108806</SimpleData>
+		<SimpleData name="Longitude">121.495694</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.495694,25.108806</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">關渡自然公園 </SimpleData>
+		<SimpleData name="Location">西南側賞鳥廣場 </SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.11525</SimpleData>
+		<SimpleData name="Longitude">121.468556</SimpleData>
+		<SimpleData name="field_7">堤外</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.468556,25.11525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">士林區</SimpleData>
+		<SimpleData name="Park">百齡右岸河濱公園</SimpleData>
+		<SimpleData name="Location">承德橋下</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.078561</SimpleData>
+		<SimpleData name="Longitude">121.521465</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.521465,25.078561</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">南港區</SimpleData>
+		<SimpleData name="Park">南湖左岸河濱公園</SimpleData>
+		<SimpleData name="Location">基1號疏散門旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.058944</SimpleData>
+		<SimpleData name="Longitude">121.621444</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.621444,25.058944</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">南港區</SimpleData>
+		<SimpleData name="Park">南湖左岸河濱公園</SimpleData>
+		<SimpleData name="Location">基左南湖大橋牽引道末端</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.062611</SimpleData>
+		<SimpleData name="Longitude">121.612639</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.612639,25.062611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">南港區</SimpleData>
+		<SimpleData name="Park">南湖左岸河濱公園</SimpleData>
+		<SimpleData name="Location">基2號下游20m成功橋旁</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.0585</SimpleData>
+		<SimpleData name="Longitude">121.592806</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.592806,25.0585</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">南港區</SimpleData>
+		<SimpleData name="Park">南湖左岸河濱公園</SimpleData>
+		<SimpleData name="Location">基2號下游20m成功橋旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.0585</SimpleData>
+		<SimpleData name="Longitude">121.592806</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.592806,25.0585</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">南港區</SimpleData>
+		<SimpleData name="Park">成美左岸河濱公園</SimpleData>
+		<SimpleData name="Location">基左長壽橋旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.052389</SimpleData>
+		<SimpleData name="Longitude">121.581167</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.581167,25.052389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">南港區</SimpleData>
+		<SimpleData name="Park">成美左岸河濱公園</SimpleData>
+		<SimpleData name="Location">松河街422號對面堤防旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.057333</SimpleData>
+		<SimpleData name="Longitude">121.591361</SimpleData>
+		<SimpleData name="field_7">堤外</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.591361,25.057333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">南港區</SimpleData>
+		<SimpleData name="Park">成美左岸河濱公園</SimpleData>
+		<SimpleData name="Location">松河街與南港路3段106巷口(3號水門旁)</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.05525</SimpleData>
+		<SimpleData name="Longitude">121.589056</SimpleData>
+		<SimpleData name="field_7">堤外</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.589056,25.05525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">南港區</SimpleData>
+		<SimpleData name="Park">成美左岸河濱公園</SimpleData>
+		<SimpleData name="Location">松河街360號對面堤防邊</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.053806</SimpleData>
+		<SimpleData name="Longitude">121.586417</SimpleData>
+		<SimpleData name="field_7">堤外</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.586417,25.053806</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">南港區</SimpleData>
+		<SimpleData name="Park">成美左岸河濱公園</SimpleData>
+		<SimpleData name="Location">松河街282號對面堤防邊</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.052083</SimpleData>
+		<SimpleData name="Longitude">121.579694</SimpleData>
+		<SimpleData name="field_7">堤外</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.579694,25.052083</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">松山區</SimpleData>
+		<SimpleData name="Park">成美左岸河濱公園</SimpleData>
+		<SimpleData name="Location">松河街146號對面堤防邊</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.051222</SimpleData>
+		<SimpleData name="Longitude">121.575944</SimpleData>
+		<SimpleData name="field_7">堤外</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.575944,25.051222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">松山區</SimpleData>
+		<SimpleData name="Park">成美左岸河濱公園</SimpleData>
+		<SimpleData name="Location">松河街76號對面堤防邊</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.050861</SimpleData>
+		<SimpleData name="Longitude">121.574194</SimpleData>
+		<SimpleData name="field_7">堤外</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.574194,25.050861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">松山區</SimpleData>
+		<SimpleData name="Park">成美左岸河濱公園</SimpleData>
+		<SimpleData name="Location">松河街46號對面堤防邊</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.050778</SimpleData>
+		<SimpleData name="Longitude">121.573639</SimpleData>
+		<SimpleData name="field_7">堤外</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.573639,25.050778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">松山區</SimpleData>
+		<SimpleData name="Park">成美左岸河濱公園</SimpleData>
+		<SimpleData name="Location">松河街28號對面堤防邊</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.05075</SimpleData>
+		<SimpleData name="Longitude">121.573083</SimpleData>
+		<SimpleData name="field_7">堤外</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.573083,25.05075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">松山區</SimpleData>
+		<SimpleData name="Park">成美左岸河濱公園</SimpleData>
+		<SimpleData name="Location">松河街16號抽水站對面堤防邊</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.051</SimpleData>
+		<SimpleData name="Longitude">121.571611</SimpleData>
+		<SimpleData name="field_7">堤外</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.571611,25.051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">松山區</SimpleData>
+		<SimpleData name="Park">成美左岸河濱公園</SimpleData>
+		<SimpleData name="Location">基左麥帥一橋旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.0515</SimpleData>
+		<SimpleData name="Longitude">121.571</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.571,25.0515</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">松山區</SimpleData>
+		<SimpleData name="Park">觀山河濱公園</SimpleData>
+		<SimpleData name="Location">基左麥帥二橋旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.054778</SimpleData>
+		<SimpleData name="Longitude">121.570194</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.570194,25.054778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">松山區</SimpleData>
+		<SimpleData name="Park">觀山河濱公園</SimpleData>
+		<SimpleData name="Location">基5號門旁</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.058917</SimpleData>
+		<SimpleData name="Longitude">121.569528</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.569528,25.058917</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">松山區</SimpleData>
+		<SimpleData name="Park">觀山河濱公園</SimpleData>
+		<SimpleData name="Location">基左高速公路上游320m停車場周邊</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.068278</SimpleData>
+		<SimpleData name="Longitude">121.568806</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.568806,25.068278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">松山區</SimpleData>
+		<SimpleData name="Park">觀山河濱公園</SimpleData>
+		<SimpleData name="Location">基6號疏散門上游90m停車場周邊</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.064306</SimpleData>
+		<SimpleData name="Longitude">121.568472</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.568472,25.064306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">迎風河濱公園</SimpleData>
+		<SimpleData name="Location">基左高速公路棒球場旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.072639</SimpleData>
+		<SimpleData name="Longitude">121.570333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.570333,25.072639</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">迎風河濱公園</SimpleData>
+		<SimpleData name="Location">基左高速公路棒球場旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.072639</SimpleData>
+		<SimpleData name="Longitude">121.570333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.570333,25.072639</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">迎風河濱公園</SimpleData>
+		<SimpleData name="Location">基左高速公路棒球場旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.072639</SimpleData>
+		<SimpleData name="Longitude">121.570333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.570333,25.072639</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">迎風河濱公園</SimpleData>
+		<SimpleData name="Location">基左高速公路橋下游壘球場50m處</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.071694</SimpleData>
+		<SimpleData name="Longitude">121.567139</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.567139,25.071694</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">迎風河濱公園</SimpleData>
+		<SimpleData name="Location">基左高速公路橋下游壘球場50m處</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.071694</SimpleData>
+		<SimpleData name="Longitude">121.567139</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.567139,25.071694</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">迎風河濱公園</SimpleData>
+		<SimpleData name="Location">基左7號疏散門下游280m停車場周邊</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.073639</SimpleData>
+		<SimpleData name="Longitude">121.548417</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.548417,25.073639</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">迎風河濱公園</SimpleData>
+		<SimpleData name="Location">基左7號疏散門下游280m停車場周邊</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.073639</SimpleData>
+		<SimpleData name="Longitude">121.548417</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.548417,25.073639</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">迎風河濱公園</SimpleData>
+		<SimpleData name="Location">基左7號疏散門下游280m停車場周邊</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.073639</SimpleData>
+		<SimpleData name="Longitude">121.548417</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.548417,25.073639</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">迎風河濱公園</SimpleData>
+		<SimpleData name="Location">基左大直橋上游500m停車場周邊</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.07375</SimpleData>
+		<SimpleData name="Longitude">121.55075</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.55075,25.07375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">迎風河濱公園</SimpleData>
+		<SimpleData name="Location">基左大直橋上游500m停車場周邊</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.07375</SimpleData>
+		<SimpleData name="Longitude">121.55075</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.55075,25.07375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">迎風河濱公園</SimpleData>
+		<SimpleData name="Location">基左大直橋上游500m停車場周邊</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.07375</SimpleData>
+		<SimpleData name="Longitude">121.55075</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.55075,25.07375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">迎風河濱公園</SimpleData>
+		<SimpleData name="Location">基左7號疏散門上游500m停車場周邊</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.073306</SimpleData>
+		<SimpleData name="Longitude">121.556722</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.556722,25.073306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">迎風河濱公園</SimpleData>
+		<SimpleData name="Location">基左7號疏散門上游500m停車場周邊</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.073306</SimpleData>
+		<SimpleData name="Longitude">121.556722</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.556722,25.073306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">迎風河濱公園</SimpleData>
+		<SimpleData name="Location">基左7號疏散門上游500m停車場周邊</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.073306</SimpleData>
+		<SimpleData name="Longitude">121.556722</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.556722,25.073306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">迎風河濱公園</SimpleData>
+		<SimpleData name="Location">基左7號疏散門上游130m停車場周邊</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.073833</SimpleData>
+		<SimpleData name="Longitude">121.554167</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.554167,25.073833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">迎風河濱公園</SimpleData>
+		<SimpleData name="Location">基左7號疏散門上游130m停車場周邊</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.073833</SimpleData>
+		<SimpleData name="Longitude">121.554167</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.554167,25.073833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">迎風河濱公園</SimpleData>
+		<SimpleData name="Location">基左7號疏散門上游130m停車場周邊</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.073833</SimpleData>
+		<SimpleData name="Longitude">121.554167</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.554167,25.073833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">迎風河濱公園</SimpleData>
+		<SimpleData name="Location">基左狗運動公園停車場周邊</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.071694</SimpleData>
+		<SimpleData name="Longitude">121.565472</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.565472,25.071694</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">迎風河濱公園</SimpleData>
+		<SimpleData name="Location">基左狗運動公園停車場周邊</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.071694</SimpleData>
+		<SimpleData name="Longitude">121.565472</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.565472,25.071694</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">迎風河濱公園</SimpleData>
+		<SimpleData name="Location">基左狗運動公園停車場周邊</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.071694</SimpleData>
+		<SimpleData name="Longitude">121.565472</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.565472,25.071694</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">迎風河濱公園</SimpleData>
+		<SimpleData name="Location">基左大直橋上游220m停車場周邊</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.07375</SimpleData>
+		<SimpleData name="Longitude">121.546139</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.546139,25.07375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">迎風河濱公園</SimpleData>
+		<SimpleData name="Location">基左大直橋上游220m停車場周邊</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.07375</SimpleData>
+		<SimpleData name="Longitude">121.546139</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.546139,25.07375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">迎風河濱公園</SimpleData>
+		<SimpleData name="Location">基左大直橋上游220m停車場周邊</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.07375</SimpleData>
+		<SimpleData name="Longitude">121.546139</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.546139,25.07375</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">大佳河濱公園</SimpleData>
+		<SimpleData name="Location">基左8號疏散門前方停車場周邊</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.073806</SimpleData>
+		<SimpleData name="Longitude">121.54025</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.54025,25.073806</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">大佳河濱公園</SimpleData>
+		<SimpleData name="Location">基左8號疏散門前方停車場周邊</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.073806</SimpleData>
+		<SimpleData name="Longitude">121.54025</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.54025,25.073806</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">大佳河濱公園</SimpleData>
+		<SimpleData name="Location">基左8號疏散門前方停車場周邊</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.073806</SimpleData>
+		<SimpleData name="Longitude">121.54025</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.54025,25.073806</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">大佳河濱公園 </SimpleData>
+		<SimpleData name="Location">基左10號水門網球場旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.074444</SimpleData>
+		<SimpleData name="Longitude">121.531167</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.531167,25.074444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">大佳河濱公園 </SimpleData>
+		<SimpleData name="Location">基左10號水門網球場旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.074444</SimpleData>
+		<SimpleData name="Longitude">121.531167</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.531167,25.074444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">大佳河濱公園 </SimpleData>
+		<SimpleData name="Location">基左10號水門網球場旁</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.074444</SimpleData>
+		<SimpleData name="Longitude">121.531167</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.531167,25.074444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">內湖區</SimpleData>
+		<SimpleData name="Park">南湖右岸河濱公園</SimpleData>
+		<SimpleData name="Location">基右南湖大橋旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.063694</SimpleData>
+		<SimpleData name="Longitude">121.611194</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.611194,25.063694</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">內湖區</SimpleData>
+		<SimpleData name="Park">南湖右岸河濱公園</SimpleData>
+		<SimpleData name="Location">基12門下游20m處</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.061028</SimpleData>
+		<SimpleData name="Longitude">121.594028</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.594028,25.061028</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">內湖區</SimpleData>
+		<SimpleData name="Park">成美右岸河濱公園</SimpleData>
+		<SimpleData name="Location">基右成功橋牽引道末端</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.059472</SimpleData>
+		<SimpleData name="Longitude">121.590944</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.590944,25.059472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">內湖區</SimpleData>
+		<SimpleData name="Park">成美右岸河濱公園</SimpleData>
+		<SimpleData name="Location">基13號門旁</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.057278</SimpleData>
+		<SimpleData name="Longitude">121.587806</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.587806,25.057278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">內湖區</SimpleData>
+		<SimpleData name="Park">成美右岸河濱公園</SimpleData>
+		<SimpleData name="Location">基13號門下游100公尺處</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.056444</SimpleData>
+		<SimpleData name="Longitude">121.58625</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.58625,25.056444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">內湖區</SimpleData>
+		<SimpleData name="Park">成美右岸河濱公園</SimpleData>
+		<SimpleData name="Location">基右成美橋旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.054778</SimpleData>
+		<SimpleData name="Longitude">121.582472</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.582472,25.054778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">內湖區</SimpleData>
+		<SimpleData name="Park">成美右岸河濱公園</SimpleData>
+		<SimpleData name="Location">潭美街 196停車格旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.057111</SimpleData>
+		<SimpleData name="Longitude">121.587528</SimpleData>
+		<SimpleData name="field_7">堤外</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.587528,25.057111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">內湖區</SimpleData>
+		<SimpleData name="Park">成美右岸河濱公園</SimpleData>
+		<SimpleData name="Location">潭美街成美橋下西側</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.054722</SimpleData>
+		<SimpleData name="Longitude">121.58225</SimpleData>
+		<SimpleData name="field_7">堤外</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.58225,25.054722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">內湖區</SimpleData>
+		<SimpleData name="Park">彩虹河濱公園</SimpleData>
+		<SimpleData name="Location">基右麥帥一橋下游250M停車場處</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.055111</SimpleData>
+		<SimpleData name="Longitude">121.573556</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.573556,25.055111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">內湖區</SimpleData>
+		<SimpleData name="Park">彩虹河濱公園</SimpleData>
+		<SimpleData name="Location">基右麥帥一橋旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.053444</SimpleData>
+		<SimpleData name="Longitude">121.574222</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.574222,25.053444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">內湖區</SimpleData>
+		<SimpleData name="Park">彩虹河濱公園</SimpleData>
+		<SimpleData name="Location">基右麥帥一橋旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.053444</SimpleData>
+		<SimpleData name="Longitude">121.574222</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.574222,25.053444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">內湖區</SimpleData>
+		<SimpleData name="Park">彩虹河濱公園</SimpleData>
+		<SimpleData name="Location">基右麥帥一橋旁</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.053444</SimpleData>
+		<SimpleData name="Longitude">121.574222</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.574222,25.053444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">內湖區</SimpleData>
+		<SimpleData name="Park">彩虹河濱公園</SimpleData>
+		<SimpleData name="Location">基右麥帥二橋旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.057194</SimpleData>
+		<SimpleData name="Longitude">121.573222</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.573222,25.057194</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">內湖區</SimpleData>
+		<SimpleData name="Park">彩虹河濱公園</SimpleData>
+		<SimpleData name="Location">基右麥帥二橋旁</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.057194</SimpleData>
+		<SimpleData name="Longitude">121.573222</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.573222,25.057194</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">內湖區</SimpleData>
+		<SimpleData name="Park">彩虹河濱公園</SimpleData>
+		<SimpleData name="Location">民權大橋上游河岸網球場旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.063111</SimpleData>
+		<SimpleData name="Longitude">121.570917</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.570917,25.063111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">內湖區</SimpleData>
+		<SimpleData name="Park">彩虹河濱公園</SimpleData>
+		<SimpleData name="Location">基右民權大橋上游350M停車場周邊</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.061889</SimpleData>
+		<SimpleData name="Longitude">121.572639</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.572639,25.061889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">內湖區</SimpleData>
+		<SimpleData name="Park">彩虹河濱公園</SimpleData>
+		<SimpleData name="Location">基右民權大橋上游350M停車場周邊</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.061889</SimpleData>
+		<SimpleData name="Longitude">121.572639</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.572639,25.061889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">內湖區</SimpleData>
+		<SimpleData name="Park">彩虹河濱公園</SimpleData>
+		<SimpleData name="Location">基右民權大橋上游350M停車場周邊</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.061889</SimpleData>
+		<SimpleData name="Longitude">121.572639</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.572639,25.061889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">內湖區</SimpleData>
+		<SimpleData name="Park">彩虹河濱公園</SimpleData>
+		<SimpleData name="Location">基右民權大橋旁下游堤防側</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.065222</SimpleData>
+		<SimpleData name="Longitude">121.572222</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.572222,25.065222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">內湖區</SimpleData>
+		<SimpleData name="Park">彩虹河濱公園</SimpleData>
+		<SimpleData name="Location">基右民權大橋旁上游停車場處</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.06425</SimpleData>
+		<SimpleData name="Longitude">121.572306</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.572306,25.06425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">內湖區</SimpleData>
+		<SimpleData name="Park">彩虹河濱公園</SimpleData>
+		<SimpleData name="Location">基右民權大橋旁上游停車場處</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.06425</SimpleData>
+		<SimpleData name="Longitude">121.572306</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.572306,25.06425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">美堤河濱公園</SimpleData>
+		<SimpleData name="Location">基右大直橋下下游5m處(自行車牽引道)</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.077417</SimpleData>
+		<SimpleData name="Longitude">121.544167</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.544167,25.077417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">美堤河濱公園</SimpleData>
+		<SimpleData name="Location">基右美堤網球場周邊</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.076972</SimpleData>
+		<SimpleData name="Longitude">121.554</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.554,25.076972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">美堤河濱公園</SimpleData>
+		<SimpleData name="Location">基右美堤網球場周邊</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.076972</SimpleData>
+		<SimpleData name="Longitude">121.554</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.554,25.076972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">美堤河濱公園</SimpleData>
+		<SimpleData name="Location">基右美堤網球場周邊</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.076972</SimpleData>
+		<SimpleData name="Longitude">121.554</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.554,25.076972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">美堤河濱公園</SimpleData>
+		<SimpleData name="Location">基右美堤網球場周邊</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.076972</SimpleData>
+		<SimpleData name="Longitude">121.554</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.554,25.076972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">美堤河濱公園</SimpleData>
+		<SimpleData name="Location">基右高速公路橋下方旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.071056</SimpleData>
+		<SimpleData name="Longitude">121.573111</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.573111,25.071056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">美堤河濱公園</SimpleData>
+		<SimpleData name="Location">基右美堤壘球場周邊</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.075917</SimpleData>
+		<SimpleData name="Longitude">121.564889</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.564889,25.075917</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">美堤河濱公園</SimpleData>
+		<SimpleData name="Location">基右美堤壘球場周邊</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.075917</SimpleData>
+		<SimpleData name="Longitude">121.564889</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.564889,25.075917</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">美堤河濱公園</SimpleData>
+		<SimpleData name="Location">基右美堤壘球場周邊</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.075917</SimpleData>
+		<SimpleData name="Longitude">121.564889</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.564889,25.075917</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">美堤河濱公園</SimpleData>
+		<SimpleData name="Location">環山抽水站前停車場旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.075833</SimpleData>
+		<SimpleData name="Longitude">121.563639</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.563639,25.075833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">美堤河濱公園</SimpleData>
+		<SimpleData name="Location">環山抽水站前停車場旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.075833</SimpleData>
+		<SimpleData name="Longitude">121.563639</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.563639,25.075833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">美堤河濱公園</SimpleData>
+		<SimpleData name="Location">基右美堤壘球場旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.074167</SimpleData>
+		<SimpleData name="Longitude">121.563972</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.563972,25.074167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">美堤河濱公園</SimpleData>
+		<SimpleData name="Location">基16號疏散門上游210m堤防側</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.076278</SimpleData>
+		<SimpleData name="Longitude">121.560333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.560333,25.076278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">圓山河濱公園</SimpleData>
+		<SimpleData name="Location">基右新生高架橋下方旁</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.074972</SimpleData>
+		<SimpleData name="Longitude">121.526778</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.526778,25.074972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中山區</SimpleData>
+		<SimpleData name="Park">圓山河濱公園</SimpleData>
+		<SimpleData name="Location">基右新生高架橋下方旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.074972</SimpleData>
+		<SimpleData name="Longitude">121.526778</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.526778,25.074972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">內湖區</SimpleData>
+		<SimpleData name="Park">金瑞治水園區</SimpleData>
+		<SimpleData name="Location">內湖路三段348巷底</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.092008</SimpleData>
+		<SimpleData name="Longitude">121.583675</SimpleData>
+		<SimpleData name="field_7">堤外</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.583675,25.092008</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">內湖區</SimpleData>
+		<SimpleData name="Park">金瑞治水園區</SimpleData>
+		<SimpleData name="Location">內湖路三段348巷底</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.092008</SimpleData>
+		<SimpleData name="Longitude">121.583675</SimpleData>
+		<SimpleData name="field_7">堤外</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.583675,25.092008</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">文山區</SimpleData>
+		<SimpleData name="Park">道南左岸河濱公園</SimpleData>
+		<SimpleData name="Location">動物園自行車租借站旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">24.999167</SimpleData>
+		<SimpleData name="Longitude">121.57925</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.57925,24.999167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">文山區</SimpleData>
+		<SimpleData name="Park">道南左岸河濱公園</SimpleData>
+		<SimpleData name="Location">動物園自行車租借站旁</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">24.999167</SimpleData>
+		<SimpleData name="Longitude">121.57925</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.57925,24.999167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">文山區</SimpleData>
+		<SimpleData name="Park">道南左岸河濱公園</SimpleData>
+		<SimpleData name="Location">遙控賽車練習場旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">24.999139</SimpleData>
+		<SimpleData name="Longitude">121.577917</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.577917,24.999139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">文山區</SimpleData>
+		<SimpleData name="Park">道南左岸河濱公園</SimpleData>
+		<SimpleData name="Location">足球場旁</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">24.997611</SimpleData>
+		<SimpleData name="Longitude">121.576361</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.576361,24.997611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">文山區</SimpleData>
+		<SimpleData name="Park">道南左岸河濱公園</SimpleData>
+		<SimpleData name="Location">萬壽橋上游棒壘球場旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">24.993139</SimpleData>
+		<SimpleData name="Longitude">121.572694</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.572694,24.993139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">文山區</SimpleData>
+		<SimpleData name="Park">道南左岸河濱公園</SimpleData>
+		<SimpleData name="Location">萬壽橋下</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">24.991611</SimpleData>
+		<SimpleData name="Longitude">121.572361</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.572361,24.991611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">文山區</SimpleData>
+		<SimpleData name="Park">道南左岸河濱公園</SimpleData>
+		<SimpleData name="Location">萬壽橋下</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">24.991611</SimpleData>
+		<SimpleData name="Longitude">121.572361</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.572361,24.991611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">文山區</SimpleData>
+		<SimpleData name="Park">道南左岸河濱公園</SimpleData>
+		<SimpleData name="Location">萬壽橋下游100公尺廣場旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">24.990167</SimpleData>
+		<SimpleData name="Longitude">121.572194</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.572194,24.990167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">文山區</SimpleData>
+		<SimpleData name="Park">道南左岸河濱公園</SimpleData>
+		<SimpleData name="Location">政大籃球場旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">24.985306</SimpleData>
+		<SimpleData name="Longitude">121.573</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.573,24.985306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">文山區</SimpleData>
+		<SimpleData name="Park">道南左岸河濱公園</SimpleData>
+		<SimpleData name="Location">政大籃球場旁</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">24.985306</SimpleData>
+		<SimpleData name="Longitude">121.573</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.573,24.985306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">文山區</SimpleData>
+		<SimpleData name="Park">道南左岸河濱公園</SimpleData>
+		<SimpleData name="Location">恒光橋下游烤肉區</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">24.980111</SimpleData>
+		<SimpleData name="Longitude">121.566639</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.566639,24.980111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">文山區</SimpleData>
+		<SimpleData name="Park">道南左岸河濱公園</SimpleData>
+		<SimpleData name="Location">恒光橋下游烤肉區</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">24.980111</SimpleData>
+		<SimpleData name="Longitude">121.566639</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.566639,24.980111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">文山區</SimpleData>
+		<SimpleData name="Park">道南左岸河濱公園</SimpleData>
+		<SimpleData name="Location">老泉抽水站旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">24.979361</SimpleData>
+		<SimpleData name="Longitude">121.559944</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.559944,24.979361</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">文山區</SimpleData>
+		<SimpleData name="Park">道南左岸河濱公園</SimpleData>
+		<SimpleData name="Location">一壽橋上游100公尺處</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">24.976444</SimpleData>
+		<SimpleData name="Longitude">121.557028</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.557028,24.976444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">文山區</SimpleData>
+		<SimpleData name="Park">道南右岸河濱公園</SimpleData>
+		<SimpleData name="Location">萬壽橋下</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">24.991861</SimpleData>
+		<SimpleData name="Longitude">121.571583</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.571583,24.991861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">文山區</SimpleData>
+		<SimpleData name="Park">道南右岸河濱公園</SimpleData>
+		<SimpleData name="Location">萬壽橋下</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">24.991861</SimpleData>
+		<SimpleData name="Longitude">121.571583</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.571583,24.991861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">文山區</SimpleData>
+		<SimpleData name="Park">道南右岸河濱公園</SimpleData>
+		<SimpleData name="Location">道南橋上游自行車牽引道旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">24.988472</SimpleData>
+		<SimpleData name="Longitude">121.571306</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.571306,24.988472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">文山區</SimpleData>
+		<SimpleData name="Park">道南右岸河濱公園</SimpleData>
+		<SimpleData name="Location">恒光橋上游約400公尺處網球場旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">24.983028</SimpleData>
+		<SimpleData name="Longitude">121.570333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.570333,24.983028</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">文山區</SimpleData>
+		<SimpleData name="Park">道南右岸河濱公園</SimpleData>
+		<SimpleData name="Location">恒光橋上游約400公尺處網球場旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">24.983028</SimpleData>
+		<SimpleData name="Longitude">121.570333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.570333,24.983028</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">文山區</SimpleData>
+		<SimpleData name="Park">道南右岸河濱公園</SimpleData>
+		<SimpleData name="Location">恒光橋下游越堤坡道旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">24.981472</SimpleData>
+		<SimpleData name="Longitude">121.564944</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.564944,24.981472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">文山區</SimpleData>
+		<SimpleData name="Park">道南右岸河濱公園</SimpleData>
+		<SimpleData name="Location">一壽橋旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">24.976972</SimpleData>
+		<SimpleData name="Longitude">121.556806</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.556806,24.976972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">文山區</SimpleData>
+		<SimpleData name="Park">道南右岸河濱公園</SimpleData>
+		<SimpleData name="Location">一壽橋旁</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">24.976972</SimpleData>
+		<SimpleData name="Longitude">121.556806</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.556806,24.976972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">文山區</SimpleData>
+		<SimpleData name="Park">道南右岸河濱公園</SimpleData>
+		<SimpleData name="Location">寶橋下游100公尺</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">24.98075</SimpleData>
+		<SimpleData name="Longitude">121.553472</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.553472,24.98075</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">文山區</SimpleData>
+		<SimpleData name="Park">木柵河濱公園</SimpleData>
+		<SimpleData name="Location">和興水密門自行車牽引道旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">24.986528</SimpleData>
+		<SimpleData name="Longitude">121.550639</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.550639,24.986528</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">文山區</SimpleData>
+		<SimpleData name="Park">木柵河濱公園</SimpleData>
+		<SimpleData name="Location">籃球場旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">24.984056</SimpleData>
+		<SimpleData name="Longitude">121.545389</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.545389,24.984056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">文山區</SimpleData>
+		<SimpleData name="Park">木柵河濱公園</SimpleData>
+		<SimpleData name="Location">籃球場旁</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">24.984056</SimpleData>
+		<SimpleData name="Longitude">121.545389</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.545389,24.984056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">文山區</SimpleData>
+		<SimpleData name="Park">景美河濱公園</SimpleData>
+		<SimpleData name="Location">北新橋旁下游籃球場旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">24.988361</SimpleData>
+		<SimpleData name="Longitude">121.539361</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.539361,24.988361</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">文山區</SimpleData>
+		<SimpleData name="Park">景美河濱公園</SimpleData>
+		<SimpleData name="Location">北新橋旁下游籃球場旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">24.988361</SimpleData>
+		<SimpleData name="Longitude">121.539361</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.539361,24.988361</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">文山區</SimpleData>
+		<SimpleData name="Park">景美河濱公園</SimpleData>
+		<SimpleData name="Location">北新橋旁下游籃球場旁</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">24.988361</SimpleData>
+		<SimpleData name="Longitude">121.539361</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.539361,24.988361</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">文山區</SimpleData>
+		<SimpleData name="Park">景美河濱公園</SimpleData>
+		<SimpleData name="Location">網球場下游自行車道100公尺旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">24.991972</SimpleData>
+		<SimpleData name="Longitude">121.537139</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.537139,24.991972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">文山區</SimpleData>
+		<SimpleData name="Park">景美河濱公園</SimpleData>
+		<SimpleData name="Location">景文街自行車鋼便橋旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">24.996389</SimpleData>
+		<SimpleData name="Longitude">121.535278</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.535278,24.996389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">文山區</SimpleData>
+		<SimpleData name="Park">福和河濱公園</SimpleData>
+		<SimpleData name="Location">福和快速道路旁</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">24.999896</SimpleData>
+		<SimpleData name="Longitude">121.535157</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.535157,24.999896</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">文山區</SimpleData>
+		<SimpleData name="Park">福和河濱公園</SimpleData>
+		<SimpleData name="Location">第1座(下游側)壘球場旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.001833</SimpleData>
+		<SimpleData name="Longitude">121.535278</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.535278,25.001833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">文山區</SimpleData>
+		<SimpleData name="Park">福和河濱公園</SimpleData>
+		<SimpleData name="Location">第2座(上游側)壘球場旁</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.000694</SimpleData>
+		<SimpleData name="Longitude">121.535194</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.535194,25.000694</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">文山區</SimpleData>
+		<SimpleData name="Park">福和河濱公園</SimpleData>
+		<SimpleData name="Location">福和橋下</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.008611</SimpleData>
+		<SimpleData name="Longitude">121.532861</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.532861,25.008611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">文山區</SimpleData>
+		<SimpleData name="Park">福和河濱公園</SimpleData>
+		<SimpleData name="Location">福和橋下</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.008611</SimpleData>
+		<SimpleData name="Longitude">121.532861</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.532861,25.008611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">文山區</SimpleData>
+		<SimpleData name="Park">福和河濱公園</SimpleData>
+		<SimpleData name="Location">福和橋下</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.008611</SimpleData>
+		<SimpleData name="Longitude">121.532861</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.532861,25.008611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">文山區</SimpleData>
+		<SimpleData name="Park">古亭河濱公園</SimpleData>
+		<SimpleData name="Location">客家平台花海旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.01875</SimpleData>
+		<SimpleData name="Longitude">121.522556</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.522556,25.01875</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中正區</SimpleData>
+		<SimpleData name="Park">古亭河濱公園</SimpleData>
+		<SimpleData name="Location">網球場及籃球場間</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.01975</SimpleData>
+		<SimpleData name="Longitude">121.520778</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.520778,25.01975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中正區</SimpleData>
+		<SimpleData name="Park">古亭河濱公園</SimpleData>
+		<SimpleData name="Location">網球場及籃球場間</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.01975</SimpleData>
+		<SimpleData name="Longitude">121.520778</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.520778,25.01975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中正區</SimpleData>
+		<SimpleData name="Park">中正河濱公園</SimpleData>
+		<SimpleData name="Location">中正橋下木棧道旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.021667</SimpleData>
+		<SimpleData name="Longitude">121.516139</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.516139,25.021667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中正區</SimpleData>
+		<SimpleData name="Park">中正河濱公園</SimpleData>
+		<SimpleData name="Location">中正網球場旁(紹安橋)</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.023694</SimpleData>
+		<SimpleData name="Longitude">121.514083</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.514083,25.023694</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中正區</SimpleData>
+		<SimpleData name="Park">中正河濱公園</SimpleData>
+		<SimpleData name="Location">中正壘球場旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.023694</SimpleData>
+		<SimpleData name="Longitude">121.514083</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.514083,25.023694</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">中正區</SimpleData>
+		<SimpleData name="Park">中正河濱公園</SimpleData>
+		<SimpleData name="Location">中正壘球場旁</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.023722</SimpleData>
+		<SimpleData name="Longitude">121.512361</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.512361,25.023722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">萬華區</SimpleData>
+		<SimpleData name="Park">華中河濱公園</SimpleData>
+		<SimpleData name="Location">華中與馬場町交界水防汛道旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.01825</SimpleData>
+		<SimpleData name="Longitude">121.502306</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.502306,25.01825</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">萬華區</SimpleData>
+		<SimpleData name="Park">華中河濱公園</SimpleData>
+		<SimpleData name="Location">華中自行車道5.5公里處旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.015778</SimpleData>
+		<SimpleData name="Longitude">121.500667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.500667,25.015778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">萬華區</SimpleData>
+		<SimpleData name="Park">華中河濱公園</SimpleData>
+		<SimpleData name="Location">華中橋下游壘球場旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.015361</SimpleData>
+		<SimpleData name="Longitude">121.49525</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.49525,25.015361</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">萬華區</SimpleData>
+		<SimpleData name="Park">華中河濱公園</SimpleData>
+		<SimpleData name="Location">華中橋下游壘球場旁</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.015361</SimpleData>
+		<SimpleData name="Longitude">121.49525</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.49525,25.015361</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">萬華區</SimpleData>
+		<SimpleData name="Park">華中河濱公園</SimpleData>
+		<SimpleData name="Location">華中橋下游自行車練習場旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.012833</SimpleData>
+		<SimpleData name="Longitude">121.495194</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.495194,25.012833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">萬華區</SimpleData>
+		<SimpleData name="Park">華中河濱公園</SimpleData>
+		<SimpleData name="Location">華中橋下游自行車練習場旁</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.012833</SimpleData>
+		<SimpleData name="Longitude">121.495194</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.495194,25.012833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">萬華區</SimpleData>
+		<SimpleData name="Park">華中河濱公園</SimpleData>
+		<SimpleData name="Location">華中橋下游水防道路旁(第3階梯)</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.017139</SimpleData>
+		<SimpleData name="Longitude">121.49375</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.49375,25.017139</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">萬華區</SimpleData>
+		<SimpleData name="Park">華中河濱公園</SimpleData>
+		<SimpleData name="Location">華中橋下游籃球場旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.016972</SimpleData>
+		<SimpleData name="Longitude">121.492417</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.492417,25.016972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">萬華區</SimpleData>
+		<SimpleData name="Park">華中河濱公園</SimpleData>
+		<SimpleData name="Location">華中橋下游網球場旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.016666</SimpleData>
+		<SimpleData name="Longitude">121.491687</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.491687,25.016666</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">萬華區</SimpleData>
+		<SimpleData name="Park">華中河濱公園</SimpleData>
+		<SimpleData name="Location">華中橋下游網球場旁</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.016666</SimpleData>
+		<SimpleData name="Longitude">121.491687</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.491687,25.016666</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">萬華區</SimpleData>
+		<SimpleData name="Park">華中河濱公園</SimpleData>
+		<SimpleData name="Location">光復橋上游足球場旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.021722</SimpleData>
+		<SimpleData name="Longitude">121.490944</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.490944,25.021722</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">萬華區</SimpleData>
+		<SimpleData name="Park">華中河濱公園</SimpleData>
+		<SimpleData name="Location">光復橋下</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.024222</SimpleData>
+		<SimpleData name="Longitude">121.490306</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.490306,25.024222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">萬華區</SimpleData>
+		<SimpleData name="Park">華中河濱公園</SimpleData>
+		<SimpleData name="Location">光復橋下</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.024222</SimpleData>
+		<SimpleData name="Longitude">121.490306</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.490306,25.024222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">萬華區</SimpleData>
+		<SimpleData name="Park">華中河濱公園</SimpleData>
+		<SimpleData name="Location">華翠橋下游羽球場旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.026306</SimpleData>
+		<SimpleData name="Longitude">121.489556</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.489556,25.026306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">萬華區</SimpleData>
+		<SimpleData name="Park">華中河濱公園</SimpleData>
+		<SimpleData name="Location">華翠橋下</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.0275</SimpleData>
+		<SimpleData name="Longitude">121.488389</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.488389,25.0275</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">萬華區</SimpleData>
+		<SimpleData name="Park">雙園河濱公園</SimpleData>
+		<SimpleData name="Location">萬板橋下游公車停車場水防道路旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.031278</SimpleData>
+		<SimpleData name="Longitude">121.488222</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.488222,25.031278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">萬華區</SimpleData>
+		<SimpleData name="Park">雙園河濱公園</SimpleData>
+		<SimpleData name="Location">華江疏散門堤外停車場內</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.033194</SimpleData>
+		<SimpleData name="Longitude">121.486833</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.486833,25.033194</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">萬華區</SimpleData>
+		<SimpleData name="Park">雙園河濱公園</SimpleData>
+		<SimpleData name="Location">華江疏散門堤外停車場內</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.032472</SimpleData>
+		<SimpleData name="Longitude">121.488417</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.488417,25.032472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">萬華區</SimpleData>
+		<SimpleData name="Park">雙園河濱公園</SimpleData>
+		<SimpleData name="Location">華江橋上游籃球場、網球場間</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.033806</SimpleData>
+		<SimpleData name="Longitude">121.488361</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.488361,25.033806</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">萬華區</SimpleData>
+		<SimpleData name="Park">雙園河濱公園</SimpleData>
+		<SimpleData name="Location">華江橋上游籃球場、網球場間</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.033806</SimpleData>
+		<SimpleData name="Longitude">121.488361</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.488361,25.033806</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">萬華區</SimpleData>
+		<SimpleData name="Park">雙園河濱公園</SimpleData>
+		<SimpleData name="Location">華江橋上游棒壘球場旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.034694</SimpleData>
+		<SimpleData name="Longitude">121.486556</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.486556,25.034694</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">萬華區</SimpleData>
+		<SimpleData name="Park">雙園河濱公園</SimpleData>
+		<SimpleData name="Location">華江橋上游棒壘球場旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.034694</SimpleData>
+		<SimpleData name="Longitude">121.486556</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.486556,25.034694</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">萬華區</SimpleData>
+		<SimpleData name="Park">雙園河濱公園</SimpleData>
+		<SimpleData name="Location">華江橋上游棒壘球場旁</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.034694</SimpleData>
+		<SimpleData name="Longitude">121.486556</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.486556,25.034694</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">萬華區</SimpleData>
+		<SimpleData name="Park">雙園河濱公園</SimpleData>
+		<SimpleData name="Location">華江橋下水防道路旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.03525</SimpleData>
+		<SimpleData name="Longitude">121.490083</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.490083,25.03525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">萬華區</SimpleData>
+		<SimpleData name="Park">雙園河濱公園</SimpleData>
+		<SimpleData name="Location">華江橋下水防道路旁</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.03525</SimpleData>
+		<SimpleData name="Longitude">121.490083</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.490083,25.03525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">萬華區</SimpleData>
+		<SimpleData name="Park">龍山河濱公園</SimpleData>
+		<SimpleData name="Location">貴陽疏散門前方自行車道旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.041417</SimpleData>
+		<SimpleData name="Longitude">121.498361</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.498361,25.041417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">萬華區</SimpleData>
+		<SimpleData name="Park">龍山河濱公園</SimpleData>
+		<SimpleData name="Location">貴陽疏散門前方自行車道旁</SimpleData>
+		<SimpleData name="Type">無障礙</SimpleData>
+		<SimpleData name="Latitude">25.041417</SimpleData>
+		<SimpleData name="Longitude">121.498361</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.498361,25.041417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">萬華區</SimpleData>
+		<SimpleData name="Park">龍山河濱公園</SimpleData>
+		<SimpleData name="Location">忠孝橋下</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.049306</SimpleData>
+		<SimpleData name="Longitude">121.504778</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.504778,25.049306</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">大同區</SimpleData>
+		<SimpleData name="Park">延平河濱公園</SimpleData>
+		<SimpleData name="Location">大稻埕延平宮下游水防道路旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.053167</SimpleData>
+		<SimpleData name="Longitude">121.507139</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.507139,25.053167</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Administrative district">大同區</SimpleData>
+		<SimpleData name="Park">延平河濱公園</SimpleData>
+		<SimpleData name="Location">水仙宮旁</SimpleData>
+		<SimpleData name="Type">一般型</SimpleData>
+		<SimpleData name="Latitude">25.05825</SimpleData>
+		<SimpleData name="Longitude">121.508278</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.508278,25.05825</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">關渡碼頭</SimpleData>
+		<SimpleData name="Location">自行車租借站旁</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.12163185</SimpleData>
+		<SimpleData name="Longitude">121.4620011</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.4620011,25.12163185</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">關渡碼頭</SimpleData>
+		<SimpleData name="Location">自行車租借站旁</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.12160597</SimpleData>
+		<SimpleData name="Longitude">121.4620008</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.4620008,25.12160597</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">關渡碼頭</SimpleData>
+		<SimpleData name="Location">自行車租借站旁</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.12158193</SimpleData>
+		<SimpleData name="Longitude">121.4619996</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.4619996,25.12158193</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">關渡碼頭</SimpleData>
+		<SimpleData name="Location">自行車租借站旁</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.12155975</SimpleData>
+		<SimpleData name="Longitude">121.461998</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.461998,25.12155975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">關渡碼頭</SimpleData>
+		<SimpleData name="Location">自行車租借站旁</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.12153171</SimpleData>
+		<SimpleData name="Longitude">121.4619968</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.4619968,25.12153171</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">大佳河濱公園 </SimpleData>
+		<SimpleData name="Location">兒童遊戲區</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.07451499</SimpleData>
+		<SimpleData name="Longitude">121.5358549</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5358549,25.07451499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">大佳河濱公園 </SimpleData>
+		<SimpleData name="Location">兒童遊戲區</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.07451329</SimpleData>
+		<SimpleData name="Longitude">121.5359224</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5359224,25.07451329</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">大佳河濱公園 </SimpleData>
+		<SimpleData name="Location">兒童遊戲區</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.07457442</SimpleData>
+		<SimpleData name="Longitude">121.5359224</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5359224,25.07457442</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">大佳河濱公園 </SimpleData>
+		<SimpleData name="Location">兒童遊戲區</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.07457442</SimpleData>
+		<SimpleData name="Longitude">121.5359224</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5359224,25.07457442</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">大佳河濱公園 </SimpleData>
+		<SimpleData name="Location">碼頭南側</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.07559831</SimpleData>
+		<SimpleData name="Longitude">121.5371953</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5371953,25.07559831</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">大佳河濱公園 </SimpleData>
+		<SimpleData name="Location">碼頭南側</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.07559831</SimpleData>
+		<SimpleData name="Longitude">121.5372366</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5372366,25.07559831</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">大佳河濱公園 </SimpleData>
+		<SimpleData name="Location">碼頭南側</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.07559831</SimpleData>
+		<SimpleData name="Longitude">121.5372816</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5372816,25.07559831</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">大佳河濱公園 </SimpleData>
+		<SimpleData name="Location">碼頭南側</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.07559661</SimpleData>
+		<SimpleData name="Longitude">121.5373303</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5373303,25.07559661</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">大佳河濱公園 </SimpleData>
+		<SimpleData name="Location">近大直橋下游岸邊</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.07554055</SimpleData>
+		<SimpleData name="Longitude">121.5430095</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5430095,25.07554055</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">大佳河濱公園 </SimpleData>
+		<SimpleData name="Location">近大直橋下游岸邊</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.07553549</SimpleData>
+		<SimpleData name="Longitude">121.543043</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.543043,25.07553549</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">大佳河濱公園 </SimpleData>
+		<SimpleData name="Location">近大直橋下游岸邊</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.07553323</SimpleData>
+		<SimpleData name="Longitude">121.5430766</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.54307660000001,25.07553323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">大佳河濱公園 </SimpleData>
+		<SimpleData name="Location">近大直橋下游岸邊</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.0755338</SimpleData>
+		<SimpleData name="Longitude">121.543107</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.543107,25.0755338</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">大佳河濱公園 </SimpleData>
+		<SimpleData name="Location">近大直橋下游岸邊</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.07553323</SimpleData>
+		<SimpleData name="Longitude">121.5431337</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5431337,25.07553323</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">大佳河濱公園 </SimpleData>
+		<SimpleData name="Location">近大直橋下游岸邊</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.07553098</SimpleData>
+		<SimpleData name="Longitude">121.5431592</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.54315920000001,25.07553098</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">大佳河濱公園 </SimpleData>
+		<SimpleData name="Location">近大直橋下游岸邊</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.07552986</SimpleData>
+		<SimpleData name="Longitude">121.5431847</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5431847,25.07552986</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">大佳河濱公園 </SimpleData>
+		<SimpleData name="Location">近大直橋下游岸邊</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.07552705</SimpleData>
+		<SimpleData name="Longitude">121.543212</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.543212,25.07552705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">古亭河濱公園</SimpleData>
+		<SimpleData name="Location">永福橋停車場旁</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.01442693</SimpleData>
+		<SimpleData name="Longitude">121.5260813</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5260813,25.01442693</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">古亭河濱公園</SimpleData>
+		<SimpleData name="Location">永福橋停車場旁</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.01445213</SimpleData>
+		<SimpleData name="Longitude">121.5260646</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5260646,25.01445213</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">古亭河濱公園</SimpleData>
+		<SimpleData name="Location">永福橋停車場旁</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.01447435</SimpleData>
+		<SimpleData name="Longitude">121.5260507</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5260507,25.01447435</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">古亭河濱公園</SimpleData>
+		<SimpleData name="Location">永福橋停車場旁</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.01449658</SimpleData>
+		<SimpleData name="Longitude">121.5260312</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.52603120000001,25.01449658</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">古亭河濱公園</SimpleData>
+		<SimpleData name="Location">永福橋停車場旁</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.01451324</SimpleData>
+		<SimpleData name="Longitude">121.5260229</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5260229,25.01451324</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">延平河濱公園</SimpleData>
+		<SimpleData name="Location">大稻埕碼頭廣場</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.05719074</SimpleData>
+		<SimpleData name="Longitude">121.5079608</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.50796080000001,25.05719074</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">延平河濱公園</SimpleData>
+		<SimpleData name="Location">大稻埕碼頭廣場</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.05716852</SimpleData>
+		<SimpleData name="Longitude">121.5079553</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.50795530000001,25.05716852</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">延平河濱公園</SimpleData>
+		<SimpleData name="Location">大稻埕碼頭廣場</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.05714609</SimpleData>
+		<SimpleData name="Longitude">121.5079536</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5079536,25.05714609</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">延平河濱公園</SimpleData>
+		<SimpleData name="Location">自行車租借站旁</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.05575463</SimpleData>
+		<SimpleData name="Longitude">121.5076358</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5076358,25.05575463</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">延平河濱公園</SimpleData>
+		<SimpleData name="Location">自行車租借站旁</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.05575463</SimpleData>
+		<SimpleData name="Longitude">121.5076081</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5076081,25.05575463</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">延平河濱公園</SimpleData>
+		<SimpleData name="Location">自行車租借站旁</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.05576019</SimpleData>
+		<SimpleData name="Longitude">121.5075803</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5075803,25.05576019</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">延平河濱公園</SimpleData>
+		<SimpleData name="Location">自行車租借站旁</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.0557713</SimpleData>
+		<SimpleData name="Longitude">121.5075581</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5075581,25.0557713</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">延平河濱公園</SimpleData>
+		<SimpleData name="Location">自行車租借站旁</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.05576852</SimpleData>
+		<SimpleData name="Longitude">121.5075414</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5075414,25.05576852</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">延平河濱公園</SimpleData>
+		<SimpleData name="Location">延平宮旁</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.054255</SimpleData>
+		<SimpleData name="Longitude">121.5072817</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5072817,25.054255</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">延平河濱公園</SimpleData>
+		<SimpleData name="Location">延平宮旁</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.05421334</SimpleData>
+		<SimpleData name="Longitude">121.5072706</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5072706,25.05421334</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">延平河濱公園</SimpleData>
+		<SimpleData name="Location">延平宮旁</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.05411889</SimpleData>
+		<SimpleData name="Longitude">121.5072567</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5072567,25.05411889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">延平河濱公園</SimpleData>
+		<SimpleData name="Location">延平宮旁</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.05409111</SimpleData>
+		<SimpleData name="Longitude">121.5072456</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5072456,25.05409111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">觀山河濱公園</SimpleData>
+		<SimpleData name="Location">觀山租借站旁</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.07038417</SimpleData>
+		<SimpleData name="Longitude">121.5708568</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5708568,25.07038417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">觀山河濱公園</SimpleData>
+		<SimpleData name="Location">觀山租借站旁</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.07038417</SimpleData>
+		<SimpleData name="Longitude">121.5708568</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5708568,25.07038417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">觀山河濱公園</SimpleData>
+		<SimpleData name="Location">觀山租借站旁</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.07038417</SimpleData>
+		<SimpleData name="Longitude">121.5708568</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5708568,25.07038417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">觀山河濱公園</SimpleData>
+		<SimpleData name="Location">觀山租借站旁</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.07038417</SimpleData>
+		<SimpleData name="Longitude">121.5708568</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5708568,25.07038417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">觀山河濱公園</SimpleData>
+		<SimpleData name="Location">觀山租借站旁</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.07038417</SimpleData>
+		<SimpleData name="Longitude">121.5708568</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5708568,25.07038417</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">馬場町河濱公園</SimpleData>
+		<SimpleData name="Location">馬場町疏散門旁</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.01917956</SimpleData>
+		<SimpleData name="Longitude">121.5038684</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5038684,25.01917956</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">馬場町河濱公園</SimpleData>
+		<SimpleData name="Location">馬場町疏散門旁</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.01917956</SimpleData>
+		<SimpleData name="Longitude">121.5038684</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5038684,25.01917956</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">馬場町河濱公園</SimpleData>
+		<SimpleData name="Location">馬場町疏散門旁</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.01917956</SimpleData>
+		<SimpleData name="Longitude">121.5038684</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5038684,25.01917956</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">馬場町河濱公園</SimpleData>
+		<SimpleData name="Location">馬場町疏散門旁</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.01917956</SimpleData>
+		<SimpleData name="Longitude">121.5038684</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5038684,25.01917956</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">馬場町河濱公園</SimpleData>
+		<SimpleData name="Location">馬場町疏散門旁</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.01917956</SimpleData>
+		<SimpleData name="Longitude">121.5038684</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5038684,25.01917956</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">美堤河濱公園</SimpleData>
+		<SimpleData name="Location">美堤租借站旁</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.07582264</SimpleData>
+		<SimpleData name="Longitude">121.5614351</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5614351,25.07582264</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">美堤河濱公園</SimpleData>
+		<SimpleData name="Location">美堤租借站旁</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.07582264</SimpleData>
+		<SimpleData name="Longitude">121.5614351</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5614351,25.07582264</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">美堤河濱公園</SimpleData>
+		<SimpleData name="Location">美堤租借站旁</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.07582264</SimpleData>
+		<SimpleData name="Longitude">121.5614351</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5614351,25.07582264</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">美堤河濱公園</SimpleData>
+		<SimpleData name="Location">美堤租借站旁</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.07582264</SimpleData>
+		<SimpleData name="Longitude">121.5614351</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5614351,25.07582264</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">美堤河濱公園</SimpleData>
+		<SimpleData name="Location">美堤租借站旁</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.07582264</SimpleData>
+		<SimpleData name="Longitude">121.5614351</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5614351,25.07582264</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">道南右岸河濱公園</SimpleData>
+		<SimpleData name="Location">恆光橋旁</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">24.98095564</SimpleData>
+		<SimpleData name="Longitude">121.566967</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.566967,24.98095564</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">道南右岸河濱公園</SimpleData>
+		<SimpleData name="Location">恆光橋旁</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">24.98095564</SimpleData>
+		<SimpleData name="Longitude">121.566967</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.566967,24.98095564</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">道南右岸河濱公園</SimpleData>
+		<SimpleData name="Location">恆光橋旁</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">24.98095564</SimpleData>
+		<SimpleData name="Longitude">121.566967</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.566967,24.98095564</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">道南左岸河濱公園</SimpleData>
+		<SimpleData name="Location">木柵租借站旁</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">24.99913263</SimpleData>
+		<SimpleData name="Longitude">121.5798749</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5798749,24.99913263</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">道南左岸河濱公園</SimpleData>
+		<SimpleData name="Location">木柵租借站旁</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">24.99913263</SimpleData>
+		<SimpleData name="Longitude">121.5798749</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5798749,24.99913263</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">道南左岸河濱公園</SimpleData>
+		<SimpleData name="Location">木柵租借站旁</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">24.99913263</SimpleData>
+		<SimpleData name="Longitude">121.5798749</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5798749,24.99913263</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">社子島基隆河側</SimpleData>
+		<SimpleData name="Location">社子島頭</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.10991265</SimpleData>
+		<SimpleData name="Longitude">121.4663496</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.4663496,25.10991265</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">社子島基隆河側</SimpleData>
+		<SimpleData name="Location">社子島頭</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.10991265</SimpleData>
+		<SimpleData name="Longitude">121.4663496</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.4663496,25.10991265</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">社子島基隆河側</SimpleData>
+		<SimpleData name="Location">社子島頭</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.10991265</SimpleData>
+		<SimpleData name="Longitude">121.4663496</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.4663496,25.10991265</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">彩虹河濱公園</SimpleData>
+		<SimpleData name="Location">彩虹河濱公園民權橋下</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.06419405</SimpleData>
+		<SimpleData name="Longitude">121.5703307</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5703307,25.06419405</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">彩虹河濱公園</SimpleData>
+		<SimpleData name="Location">彩虹河濱公園民權橋下</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.06419405</SimpleData>
+		<SimpleData name="Longitude">121.5703307</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5703307,25.06419405</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">彩虹河濱公園</SimpleData>
+		<SimpleData name="Location">彩虹河濱公園民權橋下</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.06419405</SimpleData>
+		<SimpleData name="Longitude">121.5703307</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5703307,25.06419405</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">彩虹河濱公園</SimpleData>
+		<SimpleData name="Location">彩虹河濱公園民權橋下</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.06419405</SimpleData>
+		<SimpleData name="Longitude">121.5703307</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5703307,25.06419405</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">成美左岸河濱公園</SimpleData>
+		<SimpleData name="Location">錫口碼頭</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.05154429</SimpleData>
+		<SimpleData name="Longitude">121.5758976</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5758976,25.05154429</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">成美左岸河濱公園</SimpleData>
+		<SimpleData name="Location">錫口碼頭</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.05154429</SimpleData>
+		<SimpleData name="Longitude">121.5758976</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5758976,25.05154429</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">成美左岸河濱公園</SimpleData>
+		<SimpleData name="Location">錫口碼頭</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.05154429</SimpleData>
+		<SimpleData name="Longitude">121.5758976</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5758976,25.05154429</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">成美左岸河濱公園</SimpleData>
+		<SimpleData name="Location">錫口碼頭</SimpleData>
+		<SimpleData name="Type">景觀</SimpleData>
+		<SimpleData name="Latitude">25.05154429</SimpleData>
+		<SimpleData name="Longitude">121.5758976</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5758976,25.05154429</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">古亭河濱公園</SimpleData>
+		<SimpleData name="Location">客家園區鋼橋下</SimpleData>
+		<SimpleData name="Type">固定式</SimpleData>
+		<SimpleData name="Latitude">25.02001569</SimpleData>
+		<SimpleData name="Longitude">121.5225596</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.5225596,25.02001569</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">關渡宮</SimpleData>
+		<SimpleData name="Location">關渡宮旁</SimpleData>
+		<SimpleData name="Type">固定式</SimpleData>
+		<SimpleData name="Latitude">25.117463</SimpleData>
+		<SimpleData name="Longitude">121.463209</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.463209,25.117463</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#河濱廁所">
+		<SimpleData name="Park">成美右岸河濱公園</SimpleData>
+		<SimpleData name="Location">潭美街與新明路536巷交叉口</SimpleData>
+		<SimpleData name="Type">固定式</SimpleData>
+		<SimpleData name="Latitude">25.052996</SimpleData>
+		<SimpleData name="Longitude">121.576508</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>121.576508,25.052996</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
